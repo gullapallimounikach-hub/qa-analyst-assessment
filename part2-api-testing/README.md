@@ -9,10 +9,12 @@ Automated API tests for JSONPlaceholder REST API using Javascript, Mocha, Chai a
 - **Axios** - HTTP client
 
 ## Project Structure
+```
 part2-api-testing/
 |-----api-test/
 |    |-JSONPlaceholder.js
 |----package.json
+```
 
 ## Test cases
 1. **GET /users/1** - Fetch a user and validate response structure (id, name,email)
