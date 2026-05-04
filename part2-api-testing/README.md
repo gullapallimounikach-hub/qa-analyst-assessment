@@ -16,6 +16,14 @@ part2-api-testing/
 |----package.json
 ```
 
+```
+part2-api-testing/
+├── api-test/
+│   └── JSONPlaceholder.js
+├── package.json
+└── README.md
+```
+
 ## Test cases
 1. **GET /users/1** - Fetch a user and validate response structure (id, name,email)
 2. **POST /posts** - create a new post and verify the 201 status
