@@ -11,17 +11,9 @@ Automated API tests for JSONPlaceholder REST API using Javascript, Mocha, Chai a
 ## Project Structure
 ```
 part2-api-testing/
-|-----api-test/
-|    |-JSONPlaceholder.js
-|----package.json
-```
-
-```
-part2-api-testing/
 ├── api-test/
 │   └── JSONPlaceholder.js
-├── package.json
-└── README.md
+└── package.json
 ```
 
 ## Test cases
