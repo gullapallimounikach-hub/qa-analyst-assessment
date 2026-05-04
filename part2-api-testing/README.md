@@ -17,6 +17,7 @@ part2-api-testing/
 ```
 
 ## Test cases
+Test cases are under the folder api-test in a file "JSONPlaceholder.js"
 1. **GET /users/1** - Fetch a user and validate response structure (id, name,email)
 2. **POST /posts** - create a new post and verify the 201 status
 3. **GET /users/999** - validate 404 error handling for non-existent user
